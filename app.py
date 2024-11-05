@@ -72,8 +72,8 @@ def provide_download_and_export(content):
         st.write("No content available to download or export.")
 
 # Create the title and subheader for the Streamlit page
-st.title("Outliers Analyst")
-st.subheader("Upload a CSV and get the outliers:")
+st.title("Advanced Analyst Assistant")
+st.subheader("Upload a CSV and ask your questions:")
 
 # Create placeholders in the sidebar
 st.sidebar.header('Configuration')
