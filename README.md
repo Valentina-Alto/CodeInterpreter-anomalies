@@ -2,7 +2,7 @@
 
 This demo app showcases the capabilities of Azure OpenAI Assistants API with Code Interpreter.
 
-![Demo](c:\Users\vaalt\Downloads\ezgif-5-697c67b237.gif)
+![Demo](https://github.com/Valentina-Alto/CodeInterpreter-anomalies/blob/main/assets/ezgif-5-697c67b237.gif?raw=true)
 
 ## Prerequisites
 
